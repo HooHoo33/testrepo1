@@ -13,7 +13,4 @@ asdfasdf
 asdfasdfadsfasdf
 asdfasdf
 asd
-ddd
-d
-ddddd
-dd
+dddd
